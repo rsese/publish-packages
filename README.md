@@ -101,7 +101,7 @@ We'll start by creating the workflow file to publish a Docker image to GitHub Pa
   Define terms and link to docs.github.com.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><strong>:ship: Step 2: Add a Dockerfile</strong></summary>
 
 ### You created a publishing workflow! :tada:
@@ -126,7 +126,7 @@ We will add a `Dockerfile` in this pull request. The `Dockerfile` contains a set
   Define terms and link to docs.github.com.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><strong>:shipit: Step 3: Merge your pull request</strong></summary>
 
 ### Let's get publishing! :heart:
