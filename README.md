@@ -46,7 +46,7 @@ GitHub Actions makes it easier than ever to incorporate continuous delivery (CD)
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><strong>:pencil: Step 1: Create the workflow file</strong></summary>
 
 ### Welcome to "Publish packages"! :wave:
@@ -101,7 +101,7 @@ We'll start by creating the workflow file to publish a Docker image to GitHub Pa
   Define terms and link to docs.github.com.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><strong>:ship: Step 2: Add a Dockerfile</strong></summary>
 
 ### You created a publishing workflow! :tada:
