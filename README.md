@@ -126,7 +126,7 @@ We will add a `Dockerfile` in this pull request. The `Dockerfile` contains a set
   Define terms and link to docs.github.com.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><strong>:shipit: Step 3: Merge your pull request</strong></summary>
 
 ### Let's get publishing! :heart:
@@ -147,7 +147,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
   Define terms and link to docs.github.com.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><strong>:rowboat: Step 4: Pull your image</strong></summary>
 
 ### Now things are running! :sparkles:
@@ -195,7 +195,7 @@ If everything went well, 🤞 you should see `Login Succeeded` in your terminal.
   Define terms and link to docs.github.com.
 -->
 
-<details id=5>
+<details id=5 open>
 <summary><strong>:runner: Step 5: Run your image</strong></summary>
 
 ### Nicely done grabbing your Docker image! :relaxed:
@@ -224,7 +224,7 @@ Let's trying running it.
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><strong>:checkered_flag: Finish</strong></summary>
 
 ### Congratulations friend, you've completed this course!
